@@ -15,4 +15,5 @@
     <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
     <preference name="Orientation" value="landscape" />
     <icon src="www/mobileIcon.png" />
+    <engine name="android" spec="~7.1.2" />
 </widget>
