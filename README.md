@@ -1,9 +1,6 @@
 # Blade
 A mobile client (Android) for the Blade web application
 
-# Demo
-You can find a demo of the web application hosted on Google Compute Engine here: http://bladegame.hopto.org
-
 # Setup
 The web client was ported to Android using Cordova, so Cordova is needed to build the application. You can install Cordova using npm with the following line: 
 npm install -g cordova
